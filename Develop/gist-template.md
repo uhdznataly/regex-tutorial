@@ -62,7 +62,7 @@ Flags in a rwgualr expression are used to modify how the regex pattern is interp
 ## Character Escapes
 
 
-Character escapes are used in regex to match specific characters or character squences that have special meaning in regen syntax. The backlash escape is used to escape special characters that have a specific meaning in regular syntax. For example, using `\s` matches a chacater that is either a whitespace or non-whitespace chacater. 
+Character escapes are used in regex to match specific characters or character squences that have special meaning in regen syntax. The backlash escape is used to escape special characters that have a specific meaning in regular syntax. For example, using `\s` matches a character that is either a whitespace or non-whitespace character. 
 
 
 # Author
